@@ -7,7 +7,7 @@ This project demonstrates real-world frontend development skills such as compone
 ---
 
 ## 🚀 Live Demo
-👉 https://your-vercel-link.vercel.app
+👉 https://react-ecommerce-store1-66b9jbn6x-santhoshs-projects-b35f998b.vercel.app
 
 ---
 
